@@ -82,12 +82,12 @@ WSGI_APPLICATION = 'RbiCloud.wsgi.application'
 
 DATABASES = {
      'default': {
-         'ENGINE': 'django.db.backends.mysql',
-         'NAME': 'rbi-cloud',
-         'USER': 'zztheblue@rbi-cloud',
-         'PASSWORD': 'Vuducthao1998',
-         'HOST': 'rbi-cloud.mysql.database.azure.com',
-         'PORT': '3306',
+         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+         'NAME': 'daifq4ous3evgf',
+         'USER': 'npojwvoqkdzrfe',
+         'PASSWORD': 'd81b5d856a67851282409242feae35d95a31eddb098e46ceb0f294f90acff70c',
+         'HOST': 'ec2-54-225-76-136.compute-1.amazonaws.com',
+         'PORT': '5432',
      }
   }
 
