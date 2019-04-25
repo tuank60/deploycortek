@@ -156,4 +156,4 @@ EMAIL_HOST_USER = "doanhtuan14111997@gmail.com"
 EMAIL_HOST_PASSWORD = "anhtuan1997"
 EMAIL_PORT = 587
 # Allow host
-ALLOWED_HOSTS = ['deploycortek.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['cortek-daukhi.herokuapp.com','127.0.0.1']
